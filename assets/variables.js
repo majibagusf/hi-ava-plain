@@ -11,7 +11,7 @@ const variables = {
     { quote: "I love you.", author: "Aji" },
     { quote: "Aku sayang kamu!", author: "Aji" },
     { quote: "Aji sayang Feby ♥", author: "Aji-nya Feby!" },
-    { quote: "Love chuuu", author: "Bribri" },
+    { quote: "Love chuuu", author: "Aji" },
   ],
   nicknames: ["Feby", "Febyku", "Sayang", "Babe", "Cintaku", "Cinta"],
   generated: ["{greetings}, {nicknames}!"],
